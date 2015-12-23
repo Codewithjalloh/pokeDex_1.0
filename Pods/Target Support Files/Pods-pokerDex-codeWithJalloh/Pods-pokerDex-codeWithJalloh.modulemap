@@ -1,0 +1,6 @@
+framework module Pods_pokerDex_codeWithJalloh {
+  umbrella header "Pods-pokerDex-codeWithJalloh-umbrella.h"
+
+  export *
+  module * { export * }
+}
